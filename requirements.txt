@@ -1,0 +1,6 @@
+streamlit
+supabase
+opencv-python-headless
+numpy
+pandas
+qrcode[pil]
