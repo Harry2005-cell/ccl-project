@@ -3,3 +3,4 @@ st-supabase-connection
 opencv-python-headless
 pandas
 numpy
+qrcode[pil]
